@@ -28,7 +28,7 @@ and then you can open your browser and navigate to `http://localhost:8000` (or w
 
 ## Credentials
 
-You can log in using `admin@demo` as username and `demo` as password. 
+You can log in using `admin@admin` as username and `admin` as password. 
 
 P.S: you can change this information to whatever you like in `database/seeds/AdminSeeder.php`
 
